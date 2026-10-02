@@ -1,0 +1,36 @@
+body {
+        font-family: 'Times New Roman', Times, serif;
+            margin: 40px;
+            background-color: lightyellow;
+            }
+
+            h1 {
+                font-size: 40px;
+                color: darkblue;
+                margin: 20px;
+                }
+
+                h2 {
+                    margin-top: 30px;
+                    }
+
+                    p {
+                        font-size: 20px;
+                        }
+
+                        a {
+                            text-decoration: none;
+                            }
+                   .intro {
+                            color: green;
+                            font-size: 18px;
+                            padding: 20px;
+                            border: 2px solid black;
+                            border-radius: 10px;
+                            width: 50%;
+                            color: red;
+                   }
+                   #github {
+                             color: blueviolet;
+                   }
+}
